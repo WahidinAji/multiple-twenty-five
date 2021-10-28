@@ -24,6 +24,6 @@ function multipleOfTwentyFive($input)
     return $result;
 }
 
-$a = multipleOfTwentyFive(25.001);
-echo $a;
+$convert = multipleOfTwentyFive(25.001);
+echo $conver;
 //output    =   25.25
